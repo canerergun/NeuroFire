@@ -32,7 +32,6 @@
 | `tahminEt.py`            | Görselleri analiz edip yangın olasılığı tahmin eder       |
 | `harita_olusturucu.py`   | Türkiye haritası üzerinde işaretleme işlemini yapar       |
 | `egitim_grafigi.png`     | Model eğitim sürecinin görsel grafiği (isteğe bağlı)       |
-| `.env`                   | Gizli API anahtarı içindir (paylaşılmamalı)               |
 | `NeuroFire.h5`           | Eğitilmiş model dosyası (paylaşım için boyuta dikkat!)    |
 | `NeuroFire.html`         | Harita çıktısı (otomatik oluşur, GIT'e eklenmesi gerekmez)|
 
